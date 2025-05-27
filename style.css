@@ -1,0 +1,13 @@
+#slide-timer-overlay {
+  position: fixed;
+  top: 10px;
+  right: 20px;
+  font-size: 24px;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.4);
+  padding: 4px 10px;
+  border-radius: 6px;
+  z-index: 9999;
+  font-family: monospace;
+  pointer-events: none;
+}
