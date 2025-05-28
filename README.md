@@ -30,6 +30,19 @@ A Chrome extension that overlays a transparent timer on top of Google Slides pre
 5. Click **Start** to begin the overlay timer
 6. Use **Stop** to remove the overlay
 
+## Keyboard Shortcut (Recommended for Presentation Mode)
+
+When using Google Slides in presentation mode, Chrome disables normal extension popups.
+Therefore, the **only way to activate the Slide Timer** is via a keyboard shortcut.
+
+We highly recommend setting a keyboard shortcut as follows:
+
+1. Go to: `chrome://extensions/shortcuts`
+2. Find "Slide Timer Overlay"
+3. Set a shortcut (e.g., `Ctrl+Shift+T` or `Cmd+Shift+T`) for **"Activate the extension"**
+
+Once set, you can launch the timer overlay during a presentation by simply using the shortcut key.
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
